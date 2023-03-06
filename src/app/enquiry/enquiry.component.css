@@ -1,0 +1,37 @@
+section {
+  padding-top: 30px;
+  display: block;
+}
+
+.bg-white {
+  background-color: #FEF1FF !important;
+  border-style: solid;
+  text-align: center;
+  padding-bottom: 30px;
+  }
+
+  @media (min-width: 1200px){
+  .container {
+    max-width: 550px;
+}}
+
+.px-5 {
+  padding-left: 3rem!important;
+  text-align: center;
+}
+
+.enq-text {
+  padding-top: 30px!important;
+  font-size: 25px;
+}
+
+@media (min-width: 1200px){
+.enq-text {
+  padding-top: 30px!important;
+  font-size: 25px;
+} }
+
+.px-1  {
+  max-width: 15rem;
+}
+
